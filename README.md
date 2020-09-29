@@ -7,7 +7,9 @@ for training and evaluating it on the
 [Pittsburgh Dataset](http://www.ok.ctrl.titech.ac.jp/~torii/project/repttile/)
 and the "RobotCar Dataset" (based on the
 [Oxford RobotCar Dataset](https://robotcar-dataset.robots.ox.ac.uk/)) is
-provided.
+provided. This repository was created as part of my bachelor thesis which
+analysis the use of generative adversarial networks (GANs) for the task of visual
+place recognition.
 
 ## Setup
 
