@@ -8,8 +8,8 @@ for training and evaluating it on the
 and the "RobotCar Dataset" (based on the
 [Oxford RobotCar Dataset](https://robotcar-dataset.robots.ox.ac.uk/)) is
 provided. This repository was created as part of my bachelor thesis which
-analysis the use of generative adversarial networks (GANs) for the task of visual
-place recognition.
+analysis the use of generative adversarial networks (GANs) for the task of
+visual place recognition.
 
 ## Setup
 
